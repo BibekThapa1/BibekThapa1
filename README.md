@@ -1,6 +1,6 @@
 # Hi there, I'm Bibek Thapa! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack MERN Developer** 🚀 with a strong interest in building web and mobile applications. I specialize in **React.js, Node.js, MongoDB, and JavaScript** and have experience working with **Django fundamentals** as well.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack MERN Developer** 🚀 with a strong interest in building web and mobile applications. I specialize in **React.js, Node.js, MongoDB,Next.js, and JavaScript** and have experience working with **Django fundamentals** as well.
 
 ---
 
