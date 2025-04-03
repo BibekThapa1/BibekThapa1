@@ -27,7 +27,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack MERN Developer** �
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
@@ -47,28 +46,28 @@ A **MERN-based** room rental platform that allows landlords to list rooms and te
 - 🏠 Room comparison feature
 - 🔥 Modern UI with React.js
 - 📡 Backend powered by Node.js and MongoDB
-- 🔗 [Project Repository](#) *(Add link when available)*
+- 🔗 [Project Repository]
 
 ### 🎥 YouTube Backend API
 A **backend service** built with **Node.js & Express.js** to handle video uploads, authentication, and API requests for a YouTube-like platform.
 - 🔑 JWT authentication & OAuth support
 - 📂 Secure video storage and retrieval
 - 📊 Real-time analytics with MongoDB
-- 🔗 [Project Repository](#) *(Add link when available)*
+- 🔗 [Project Repository]((https://github.com/BibekThapa1/youtube-backend)) 
 
 ### 🤖 Skin Connect – AI-Powered Skin Disease Detection
 An **AI-driven** web app that diagnoses skin diseases based on **symptoms and image analysis**. Built using **Model Dermatology AI**.
 - 🏥 AI-based disease detection
 - 📸 Image and symptom-based diagnosis
 - 🌐 Built with **React.js, Node.js, MongoDB**
-- 🔗 [Project Repository](#) *(Add link when available)*
+- 🔗 [Project Repository] 
 
 ---
 
 ## 📬 Connect With Me
 📧 Email: **bibekthapa00f@gmail.com**  
 📱 Phone: **+977 9827382698**  
-💼 LinkedIn: **[Bibek Thapa](#)** *(Add link when available)*
+💼 LinkedIn: **[Bibek Thapa](https://www.linkedin.com/in/bibek-thapa-62823b288/)**
 
 ---
 
