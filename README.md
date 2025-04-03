@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack MERN Developer** �
 - 🎓 Pursuing a **Bachelor's in Information Communication Technology in Education (BICTE)**
 - 💼 Looking for a **Frontend Developer** role with **1 year of experience**
 - 🌍 Based in **Nepal**
-- 🏗️ Working on **Roomify** – A room rental platform
+- 🏗️ Made **Roomify** – A room rental platform
+- 🩺 Developed **Youtube Backend** using Node.js, MongoDB, JWT token.
 - 🩺 Developing a **Skin Disease Detection** project using AI
 - 🌱 Currently learning **React Native with Expo** for mobile development
 - 💡 Interested in **MERN Stack, AI Integration, and Real-time Applications**
@@ -46,21 +47,19 @@ A **MERN-based** room rental platform that allows landlords to list rooms and te
 - 🏠 Room comparison feature
 - 🔥 Modern UI with React.js
 - 📡 Backend powered by Node.js and MongoDB
-- 🔗 [Project Repository]
 
 ### 🎥 YouTube Backend API
 A **backend service** built with **Node.js & Express.js** to handle video uploads, authentication, and API requests for a YouTube-like platform.
 - 🔑 JWT authentication & OAuth support
 - 📂 Secure video storage and retrieval
 - 📊 Real-time analytics with MongoDB
-- 🔗 [Project Repository]((https://github.com/BibekThapa1/youtube-backend)) 
+- 🔗 [Project Repository]**[Link]((https://github.com/BibekThapa1/youtube-backend))** 
 
 ### 🤖 Skin Connect – AI-Powered Skin Disease Detection
 An **AI-driven** web app that diagnoses skin diseases based on **symptoms and image analysis**. Built using **Model Dermatology AI**.
 - 🏥 AI-based disease detection
 - 📸 Image and symptom-based diagnosis
-- 🌐 Built with **React.js, Node.js, MongoDB**
-- 🔗 [Project Repository] 
+- 🌐 Built with **React.js, Node.js, MongoDB** 
 
 ---
 
