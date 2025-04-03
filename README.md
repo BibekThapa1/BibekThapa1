@@ -53,7 +53,7 @@ A **backend service** built with **Node.js & Express.js** to handle video upload
 - 🔑 JWT authentication & OAuth support
 - 📂 Secure video storage and retrieval
 - 📊 Real-time analytics with MongoDB
-- 🔗 [Project Repository]**[Link]((https://github.com/BibekThapa1/youtube-backend))** 
+- 🔗 [Project Repository]: **[Repo](https://github.com/BibekThapa1/youtube-backend)** 
 
 ### 🤖 Skin Connect – AI-Powered Skin Disease Detection
 An **AI-driven** web app that diagnoses skin diseases based on **symptoms and image analysis**. Built using **Model Dermatology AI**.
