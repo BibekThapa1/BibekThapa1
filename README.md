@@ -60,7 +60,7 @@ An **AI-driven** web app that diagnoses skin diseases based on **symptoms and im
 - 🏥 AI-based disease detection
 - 📸 Image and symptom-based diagnosis
 - 🌐 Built with **React.js, Node.js, MongoDB**
-- 🏥 Generated image using ppeteer library.
+- 🏥 Generated image using puppeteer library.
 
 ---
 
