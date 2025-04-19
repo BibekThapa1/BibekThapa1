@@ -59,7 +59,8 @@ A **backend service** built with **Node.js & Express.js** to handle video upload
 An **AI-driven** web app that diagnoses skin diseases based on **symptoms and image analysis**. Built using **Model Dermatology AI**.
 - 🏥 AI-based disease detection
 - 📸 Image and symptom-based diagnosis
-- 🌐 Built with **React.js, Node.js, MongoDB** 
+- 🌐 Built with **React.js, Node.js, MongoDB**
+- 🏥 Generated image using ppeteer library.
 
 ---
 
