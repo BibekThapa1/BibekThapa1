@@ -1,6 +1,6 @@
 # Hi there, I'm Bibek Thapa! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack MERN Developer** 🚀 with a strong interest in building web and mobile applications. I specialize in **React.js, Node.js, MongoDB, Next.js, and JavaScript** and have experience working with **Django fundamentals** as well.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack MERN Developer** 🚀 with a strong interest in building web and mobile applications. I specialize in **React.js, Node.js, MongoDB, Next.js, Django and JavaScript** and have experience working with **Django fundamentals** as well.
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack MERN Developer** �
 - 🩺 Developed **Youtube Backend** using Node.js, MongoDB, JWT token.
 - 🩺 Developing a **Skin Disease Detection** project using AI
 - 🌱 Currently learning **React Native with Expo** for mobile development
-- 💡 Interested in **MERN Stack, AI Integration, and Real-time Applications**
+- 💡 Interested in **Full Stack, AI Integration, and Real-time Applications**
 
 ---
 
@@ -37,32 +37,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack MERN Developer** �
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-0088CC?style=for-the-badge&logo=websocket&logoColor=white)
-
----
-
-## 📌 Projects
-### 🚀 Roomify 🏠
-A **MERN-based** room rental platform that allows landlords to list rooms and tenants to rent them. Features include:
-- 📍 Location-based room search
-- 🏠 Room comparison feature
-- 🔥 Modern UI with React.js
-- 📡 Backend powered by Node.js and MongoDB
-
-### 🎥 YouTube Backend API
-A **backend service** built with **Node.js & Express.js** to handle video uploads, authentication, and API requests for a YouTube-like platform.
-- 🔑 JWT authentication & OAuth support
-- 📂 Secure video storage and retrieval
-- 📊 Real-time analytics with MongoDB
-- 🔗 [Project Repository]: **[Repo](https://github.com/BibekThapa1/youtube-backend)** 
-
-### 🤖 Skin Connect – AI-Powered Skin Disease Detection
-An **AI-driven** web app that diagnoses skin diseases based on **symptoms and image analysis**. Built using **Model Dermatology AI**.
-- 🏥 AI-based disease detection
-- 📸 Image and symptom-based diagnosis
-- 🌐 Built with **React.js, Node.js, MongoDB**
-- 🏥 Generated image using puppeteer library.
-
----
 
 ## 📬 Connect With Me
 📧 Email: **bibekthapa00f@gmail.com**  
