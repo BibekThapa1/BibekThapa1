@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a *
 - 🏠 Built **Roomify** – A room rental platform with advanced search & comparison
 - 🎥 Developed a **YouTube Clone Backend** using Node.js, MongoDB, and JWT Auth
 - 🩺 Working on an AI-powered **Skin Disease Detection App** using both images & symptoms
-- 📱 Learning **React Native with Expo** for mobile development
+- 📱 Learned **React Native with Expo** for mobile development
 - 🐳 Experienced with **Docker**, **PostgreSQL**, **Django ORM**, and **deployment strategies**
 - ⚡ Interested in **AI Integration**, **Real-Time Apps**, and **Microservices Architecture**
 
