@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a **strong focus on Backend Development** 🔧. I love building scalable, secure, and efficient web and mobile applications. My core strengths lie in **Node.js, Express, MongoDB, Django, PostgreSQL**, and **API architecture**.
 
----
+-------
 
 ## 🔥 About Me
 - 🎓 Pursuing a **Bachelor's in Information Communication Technology in Education (BICTE)**
