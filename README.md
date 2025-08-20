@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a *
 - 🩺 Working on an AI-powered **Skin Disease Detection App** using both images & symptoms
 - 📱 Learned **React Native with Expo** for mobile development
 - 🐳 Experienced with **Docker**, **PostgreSQL**, **Django ORM**, and **deployment strategies**
-- ⚡ Interested in **AI Integration**, **Real-Time Apps**, and **Microservices Architecture**
+- ⚡ Interested in **AI Integration**, **Real-Time Apps**, and **Clean Code Architecture**
 
 ---
 
