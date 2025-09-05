@@ -5,20 +5,6 @@
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a **strong focus on Backend Development** 🔧. I love building scalable, secure, and efficient web and mobile applications. My core strengths lie in **Node.js, Express, MongoDB, Django, PostgreSQL**, and **API architecture**.
 
--------
-
-## 🔥 About Me
-- 🎓 Pursuing a **Bachelor's in Information Communication Technology in Education (BICTE)**
-- 💼 Looking for a **Backend or Full-Stack Developer** role | **1 year of professional experience**
-- 🌍 Based in **Nepal**
-- 🛠️ Passionate about designing robust backend systems and RESTful APIs
-- 🏠 Built **Roomify** – A room rental platform with advanced search & comparison
-- 🎥 Developed a **YouTube Clone Backend** using Node.js, MongoDB, and JWT Auth
-- 🩺 Working on an AI-powered **Skin Disease Detection App** using both images & symptoms
-- 📱 Learned **React Native with Expo** for mobile development
-- 🐳 Experienced with **Docker**, **PostgreSQL**, **Django ORM**, and **deployment strategies**
-- ⚡ Interested in **AI Integration**, **Real-Time Apps**, and **Clean Code Architecture**
-
 ---
 
 ## 🛠️ Tech Stack
