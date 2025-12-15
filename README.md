@@ -7,7 +7,7 @@ I’m a **Full-Stack Developer** with a strong focus on **Backend Development** 
 
 I love creating **web and mobile applications** that solve real-world problems while keeping maintainability and adaptability in mind.  
 
-Ask me anything: [https://bibekthapa10.com.np](https://bibekthapa10.com.np)
+Reach Out: [https://bibekthapa10.com.np](https://bibekthapa10.com.np#contact)
 
 ---
 
